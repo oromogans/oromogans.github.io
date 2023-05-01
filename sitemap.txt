@@ -1,2 +1,0 @@
-http://www.example.com/2022/04/hello-world.html
-http://www.example.com/About.html
